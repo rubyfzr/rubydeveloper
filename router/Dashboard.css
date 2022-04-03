@@ -1,0 +1,47 @@
+#body{
+    
+}
+#myHead{
+    height:700px;
+    width:100%;
+    border: 2px solid gray
+    
+  
+}
+#screen{
+    height:80px;
+    width:100%;
+    border: 2px solid gray;
+    display: inline-block;
+    background-color: gainsboro;
+    border: 2px solid gray
+}
+#src0{
+    float: right;
+    font-size:20px;
+    display:inline-block;
+    margin-top: 2%;
+    margin-right: 10px;
+}
+
+#src1{
+    height:60px;
+    width:170px;
+    display: inline-block;
+    margin-left:5%;
+    margin-top:1%
+}
+#src2{
+    height:60px;
+    width:170px;
+    display: inline-block;
+    margin-left:9%;
+    margin-top:1%
+}
+#src3{
+    height:60px;
+    width:170px;
+    display: inline-block;
+    margin-left:1%;
+    margin-top:10px
+}
