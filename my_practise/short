@@ -1,0 +1,33 @@
+
+
+
+                <i class="fa fa-music" aria-hidden="true"></i>
+                <i class="fa fa-plane" aria-hidden="true"></i>
+                <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                <i class="fa fa-phone" aria-hidden="true"></i>
+<section class="interests section">
+<h2 class="section-title">Interests</h2>
+<div class="interests_container bd-grid">
+<div class="interests_content">
+<i class="bx bx-headphone"></i>
+<span class="interests_name">Music</span>
+</div>
+
+
+.interests_container{
+    grid-template-columns:repeat(3,1fr);
+    margin-top:var(--mb-2);
+}
+.intrests_content{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+.interests_icon{
+    font-size:1.5rem;
+    color:var(--text-color-light);
+    margin-bottom:.25rem;
+}
+
+
+
