@@ -1,0 +1,55 @@
+body{
+	margin: auto;
+}
+/* header css */
+#header{
+	text-align:center;
+	height:80px;
+	width:100%;
+	background:pink;
+	font-size:30px;
+}
+#social{
+	float :right;
+}
+.subHeading{
+	height:50px;
+	width:50px;	
+}
+#content{
+	height:450px;
+	width:100%;
+ 	
+}
+
+#container{
+	float:left;
+	height:400px;
+	width:30%;
+	margin-left:2%;
+	background: purple
+}
+#details{
+	height:450px;
+	width:50%;
+	background :green;
+	margin-left:50%;
+ 	text-color:white;
+	font-size:20px;
+	
+}
+#filter{
+}
+#footer{
+	display: inline-block;
+	background:pink;
+	border: 2px solid pink;
+	height:400px;
+	width:100%
+}
+.footerSec{
+	height:260px;
+	width:32%;
+	float:left
+
+}
