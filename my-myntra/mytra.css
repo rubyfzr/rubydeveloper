@@ -1,0 +1,156 @@
+body{
+    margin:auto;
+}
+
+#myHead{
+   height:100px;
+   width:100%;
+   font-size: larger;
+   background-color: rgb(250, 177, 177);
+}
+#myhead>img{
+    height:100px;
+   width:10%;
+}
+
+.head1{
+    height:20px;
+    width:10%;
+   float: right
+}   
+
+#commit{
+    height:100px;
+    width:100%;
+    background-color: rgb(234, 250, 177);
+    border:4px solid plum;
+}
+
+#icon{
+    height:95px;
+    width:95px;
+    background-image:url(maxresdefault.jpg);
+    border-radius: 50%;
+    font-size: 27px;
+    margin-left: 4px;
+    display:inline-block
+}
+
+#icon>p{
+    margin-left: 25%;
+    margin-top: 25%;
+}
+
+
+#icon1{
+    height:95px;
+    width:95px;
+    background-color: yellowgreen;
+    border-radius: 50%;
+    font-size: 27px;
+    font-display: centre;
+    display:inline-block
+}
+#icon1>p{
+    margin-left:3%;
+    margin-top: 25%;
+}
+
+#icon2{
+    height:95px;
+    width:95px;
+    background-color: rgb(122, 124, 241);
+    border-radius: 50%;
+    font-size: 27px;
+    font-display: centre;
+    display:inline-block
+}
+#icon2>p{
+    margin-left:23%;
+    margin-top:25%;
+}
+
+#comment{
+    height:160px;
+    width:100%;
+    border:2px solid rgb(21, 52, 192);
+}
+#first{
+    height:160px;
+
+    background-color:skyblue;
+    
+
+}
+#first>img{
+    height:160px;
+    width:100%
+}
+#second{
+    height:160px;
+    background-color:rgb(217, 240, 136);
+}
+#second>img{
+    height:160px;
+    width:100%
+}
+#third{
+    height:160px;
+    background-color:rgb(238, 179, 155);
+}
+#third>img{
+    height:160px;
+    width:100%
+}
+#fourth{
+    height:160px;
+    background-color:rgb(240, 159, 236);
+}
+#fourth>img{
+    height:160px;
+    width:100%
+}
+#fifth{
+    height:160px;
+    background-color:rgb(94, 134, 221);
+}
+#fifth>img{
+height:160px;
+width:100%
+}
+#sixth{
+    height:160px;
+    background-color:rgb(209, 198, 102);
+}
+#sixth>img{
+    height:160px;
+    width:100%
+}
+#kent12{
+    height:100px;
+    width:100%;
+    border:4px solid #4752ec;  
+    border-style: dashed;
+    text-align: center;
+    font-size: xx-large;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow:2px 2px palegreen;
+    background-color: rgb(245, 139, 171);
+    display:inline-block
+}
+#kent12:hover{
+    transition:step-start;
+    font-size: 60px;
+}
+#ruby10{
+    height:350px;
+    width:100%;
+    border:2px solid rgb(236, 30, 168);
+    background-color: rgb(250, 177, 177);
+    display:inline-block
+}
+#ruby10>img{
+    height:350px;
+    width:99%;
+}
+
